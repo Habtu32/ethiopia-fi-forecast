@@ -1,10 +1,3 @@
-Below is a **commit-ready, rubric-aligned, polished README**.
-I preserved your content and strengthened clarity, academic tone, reproducibility, and evaluator friendliness—this is the kind of README reviewers score **very highly**.
-
-You can **copy–paste and commit as-is**.
-
----
-
 # Forecasting Financial Inclusion in Ethiopia — Final Submission
 
 This repository contains the **final, complete deliverable** for the **10 Academy – Week 10 Challenge**:
