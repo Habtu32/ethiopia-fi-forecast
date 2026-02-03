@@ -84,6 +84,17 @@ ethiopia-fi-forecast/
     jupyter lab notebooks/task2_eda.ipynb
     ```
 
+### Streamlit dashboard
+
+Run the dashboard locally (ensure dependencies in `requirements.txt` are installed):
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
+
+The dashboard provides interactive views for trends, forecasts, and inclusion projections. Use the sidebar to switch scenarios and download forecast CSVs.
+
 ## 🛠️ Methodology
 
 ### Task 1: Data Exploration & Enrichment
